@@ -20,6 +20,10 @@ header {
   transition: all 200ms;
 }
 
+#title {
+  padding: 5px;
+}
+
 button {
   font-size: 18px;
   transition: all 200ms;
